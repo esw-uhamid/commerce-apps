@@ -133,7 +133,7 @@
       "companyName": "ESW",
       "version": "5.1.2",
       "zip": "esw-sfnext-v5.1.2.zip",
-      "sha256": "f356f82ff7de8ef4b16f4f2bf87ba3a20d4e301e0afc72bef28c153ed5ed54a5",
+      "sha256": "2cc03ae6ea3d3067dc71f2505a8740eb9f549280e20ecc31c285ef50489bb3f7",
       "storefrontSupport": {
         "sfnext": {
           "minVersion": "1.0.1"
