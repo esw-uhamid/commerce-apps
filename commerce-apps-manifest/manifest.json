@@ -130,9 +130,10 @@
       "domain": "payment",
       "type": "app",
       "provider": "thirdParty",
+      "companyName": "ESW",
       "version": "5.1.2",
       "zip": "esw-sfnext-v5.1.2.zip",
-      "sha256": "8c02d8aba6d5eb250069364ce95cd2abe4fa024413151eaced0f609b529c00e5",
+      "sha256": "7c6df965aca8990d15491ef842afe362b3cde680d4d2ef3dc39318e39458b1bb",
       "storefrontSupport": {
         "sfnext": {
           "minVersion": "1.0.1"
